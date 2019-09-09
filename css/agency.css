@@ -694,7 +694,6 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   min-height: 120px;
   max-height: auto;
 }
-img {
-    max-width: 100%;
-    height: auto;
+.image-border {
+  margin: 35px;
 }
